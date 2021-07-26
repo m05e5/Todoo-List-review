@@ -17715,7 +17715,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _data_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./data.js */ "./src/data.js");
 /*eslint-disable*/
 
-/* eslint-enable */
 const theBigList = document.querySelector('.todos');
 
 function antiShowAll(element) {
