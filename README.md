@@ -11,7 +11,7 @@
 
 ## Live
 
-[here](https://m05e5.github.io/todo_list/)
+[here](https://m05e5.github.io/Todoo-List-review/)
 
 ## Getting Started
 
