@@ -1,3 +1,4 @@
+/*eslint-disable*/
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -17848,8 +17849,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _data_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./data.js */ "./src/data.js");
 /*eslint-disable*/
-
-/* eslint-enable */
 const theBigList = document.querySelector('.todos');
 
 function getDragAfterElement(tdle, y) {
@@ -17930,7 +17929,6 @@ function updateStatus(event) {
   }
   localStorage.setItem('information', JSON.stringify(status));
 }
-/* eslint-enable */
 
 /***/ })
 
@@ -18048,7 +18046,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-/* eslint-enable */
 
 let todolist = [];
 if (localStorage.getItem('information') === null) {
@@ -18069,7 +18066,6 @@ class TODOs {
 }
 /* eslint-disable */
 const todos = new TODOs();
-/* eslint-enable */
 
 const todoDiv = document.querySelector('.todos');
 (0,_dragDrop__WEBPACK_IMPORTED_MODULE_4__.makeContainer)(todoDiv);
